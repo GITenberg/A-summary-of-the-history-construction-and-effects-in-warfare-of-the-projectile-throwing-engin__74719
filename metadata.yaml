@@ -1,11 +1,16 @@
 _repo: A-summary-of-the-history-construction-and-effects-in-warfare-of-the-projectile-throwing-engin__74719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74719-h/images/cover.jpg
 creator:
   author:
     agent_name: Payne-Gallwey, Ralph
     gutenberg_agent_id: '57615'
     url: http://www.gutenberg.org/2009/agents/57615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74719#A-summary-of-the-history-construction-and-effects-in-warfare-of-the-projectile-throwing-engin_
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
